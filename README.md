@@ -11,5 +11,5 @@
 </ul>
 <h1>Links</h1>
 https://github.com/jschneringer/employee-tracker
-<h1>Gif and Video Walkthrough</h1>
+<h1> Video Walkthrough</h1>
 https://drive.google.com/file/d/1M0f1b0AlPxNMAU9wG6Gkq8hiHhtmpFXW/view
